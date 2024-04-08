@@ -1,3 +1,5 @@
+# The project presented is a collaborative effort by Anjana De Silva (Student ID: 300363605) and Chamila Hasun Wickramage (Student ID: 300366744), completed as part of the SYS5160 Systems Integration module.
+
 # Traffic Light Recognition SVM vs CNN Python
 
 ## Initialization
