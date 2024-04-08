@@ -1,5 +1,9 @@
 # Traffic Light Recognition SVM vs CNN Python
 
+## Initialization
+
+To start, download the "evaluate.ipynb" file along with two RAR archives to the same directory. Then, extract the contents of both RAR archives using the same filenames
+
 ## Instructions to Runs the Program
 
 This program is developed using VS Code, so please utilize VS Code software to execute it. The code provided in this appendix is divided into several sections because it was originally created using an IPython Notebook (Jupyter Notebook – file type: ipynb). You are welcome to run it using Python alone or recreate the Jupyter Notebook environment.
